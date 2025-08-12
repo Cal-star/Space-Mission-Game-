@@ -57,6 +57,11 @@ Space Mission/
 ```sh
     python main.py
 ```
+or use:
+```sh
+    python3 main.py
+```
+
 
 ## How to Play
 1. Launch the game.
@@ -82,4 +87,5 @@ I created **Space Mission** as a fun Pygame experiment to sharpen my Python skil
 - 🎓 Computer Engineering Student  
 - 💻 Interests: Python, Flask, Pygame, and full-stack development  
 - 📫 Reach me at: afuncal188@gmail.com
+
 
