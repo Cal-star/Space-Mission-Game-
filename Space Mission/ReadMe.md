@@ -1,3 +1,4 @@
+
 https://i.pinimg.com/1200x/dd/79/7a/dd797aefa4347332c6e2f7739f11b33e.jpg<img width="1199" height="681" alt="image" src="https://github.com/user-attachments/assets/1e8e996e-86dc-417b-ab07-f6026285da6a" />
 
 
@@ -37,30 +38,40 @@ Space Mission/
 ## Installation & Setup
 1. Install Python(3.8 or later recommended).
 
-2. **Clone the repository**
+2. Download as ZIP (no Git needed)
+   Go to the repository on GitHub.
+   Click the green Code button, then select Download ZIP.
+   Extract the ZIP file to your desired location.
+   Open a terminal in the Space mission folder (inside the main folder).
+
+3. Install Pygame (Skip if you already have pygame installed)
 ```sh
-   
-   git clone https://github.com/Cal-star/Space-Mission-Game-.git
-   cd space-mission
+
+   pip install pygame
 
 ```
-   
-2. Install Pygame:
+Or use(macbook):
+
 ```sh
-    
-    pip install pygame
+
+ pip3 install pygame
 
 ```
-3. Download game files(including the images).
+4. Run the game
+```sh
 
-4. Run the game:
-```sh
-    python main.py
-```
-or use:
-```sh
     python3 main.py
+
 ```
+Or use(Windows):
+```sh
+
+   python main.py
+
+```
+
+   
+
 
 
 ## How to Play
@@ -87,5 +98,6 @@ I created **Space Mission** as a fun Pygame experiment to sharpen my Python skil
 - 🎓 Computer Engineering Student  
 - 💻 Interests: Python, Flask, Pygame, and full-stack development  
 - 📫 Reach me at: afuncal188@gmail.com
+
 
 
