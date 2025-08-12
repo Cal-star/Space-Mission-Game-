@@ -37,6 +37,11 @@ Space Mission/
 
 ## Installation & Setup
 1. Install Python(3.8 or later recommended).
+```sh
+
+   https://www.python.org/downloads/
+
+```
 
 2. Download as ZIP (no Git needed)
    Go to the repository on GitHub.
@@ -98,6 +103,7 @@ I created **Space Mission** as a fun Pygame experiment to sharpen my Python skil
 - 🎓 Computer Engineering Student  
 - 💻 Interests: Python, Flask, Pygame, and full-stack development  
 - 📫 Reach me at: afuncal188@gmail.com
+
 
 
 
