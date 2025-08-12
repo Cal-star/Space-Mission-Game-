@@ -1,9 +1,6 @@
-                                            .__              .__               
-  _________________   🛸 ____  ____     _____ |__| ______ _____|__| ____   ____ 🚀 
- /  ___/\____ \__  \ _/ ___\/ __ \   /     \|  |/  ___//  ___/  |/  _ \ /    \ 
- \___ \ |  |_> > __ \\  \__\  ___/  |  Y Y  \  |\___ \ \___ \|  (  <_> )   |  \
-/____  >|   __(____  /\___  >___  > |__|_|  /__/____  >____  >__|\____/|___|  /
-     \/ |__|       \/     \/    \/        \/      🛸  \/     \/               \/🛸 🚀 
+https://i.pinimg.com/1200x/dd/79/7a/dd797aefa4347332c6e2f7739f11b33e.jpg<img width="1199" height="681" alt="image" src="https://github.com/user-attachments/assets/1e8e996e-86dc-417b-ab07-f6026285da6a" />
+
+
 
 ## Space Mission
 Space Mission is a simple but fun Pygame-based arcade game where you pilot a rocket through space, avoiding enemy shuttles for as long as possible. The longer you survive, the higher your score (measured in time).
@@ -26,10 +23,15 @@ Space Mission is a simple but fun Pygame-based arcade game where you pilot a roc
 ## 📂 Project Structure
 
 Space Mission/
+
 ├── bg.jpeg  # Background image
+
 ├── rocket.jpeg  # Player's rocket image
+
 ├── space shuttle.jpeg  # Enemy shuttle image
+
 ├── main.py  # Game code
+
 └── ReadMe.md  # Game instructions
 
 ## Installation & Setup
@@ -80,3 +82,4 @@ I created **Space Mission** as a fun Pygame experiment to sharpen my Python skil
 - 🎓 Computer Engineering Student  
 - 💻 Interests: Python, Flask, Pygame, and full-stack development  
 - 📫 Reach me at: afuncal188@gmail.com
+
